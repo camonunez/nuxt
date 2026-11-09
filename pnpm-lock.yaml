@@ -675,7 +675,7 @@ catalogs:
       specifier: ^1.0.2
       version: 1.0.2
     my-bad:
-      specifier: ^1.1.1
+      specifier: ^1.2.0
       version: 1.2.0
     nitro:
       specifier: ^3.0.261103-rc
@@ -10446,9 +10446,6 @@ packages:
   parse5@7.3.0:
     resolution: {integrity: sha512-IInvU7fabl34qmi9gY8XOVxhYyMyuH2xUNpb2q8/Y+7552KlejkRvqvD19nMoUW/uQGGbqNpA6Tufu5FL5BZgw==}
 
-  parse5@8.0.1:
-    resolution: {integrity: sha512-z1e/HMG90obSGeidlli3hj7cbocou0/wa5HacvI3ASx34PecNjNQeaHNo5WIZpWofN9kgkqV1q5YvXe3F0FoPw==}
-
   parse5@8.1.1:
     resolution: {integrity: sha512-EcR/6WDcU7b2N3vQSxKALCk9lXGtUMQxXio008OEMBE0kavu/7JLfBEeFPzi43nMqVDSbEn3QCK+BMCc9zO//w==}
 
@@ -15305,7 +15302,7 @@ snapshots:
       hast-util-to-string: 3.0.1
       mdast-util-to-hast: 13.2.1
       micromark-util-sanitize-uri: 2.0.1
-      parse5: 8.0.1
+      parse5: 8.1.1
       pathe: 2.0.3
       property-information: 7.2.0
       rehype-external-links: 3.0.0
@@ -21679,10 +21676,6 @@ snapshots:
   parse5@7.3.0:
     dependencies:
       entities: 6.0.1
-
-  parse5@8.0.1:
-    dependencies:
-      entities: 8.1.0
 
   parse5@8.1.1:
     dependencies:
